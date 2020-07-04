@@ -1,2 +1,2 @@
-# ball-multiplayer-2
-day2
+# synchronousBallMovement
+Ball moving synchronously
